@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animation_water/animation_water.dart';
+
+import 'animation_water.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
